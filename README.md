@@ -1,1 +1,1 @@
-# C-ile-Hayat-n-Ger-ekleri
+# CSharp ile Heyatin Gerchekleri
